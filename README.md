@@ -1,1 +1,1 @@
-# DiseasePrediction
+# Liver Disease Prediction
